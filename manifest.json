@@ -1,0 +1,9 @@
+{
+    "name": "Auto reloader",
+    "description": "Automatically reload the page for every N second given by the user",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "home.html"
+    }
+}
